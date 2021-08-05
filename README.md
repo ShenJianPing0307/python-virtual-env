@@ -34,11 +34,11 @@
 
 - 选择 All User选项
 
-​                              ![用户选择](D:\视频录制\手把手系列视频\开发环境搭建\图片\图片1.png)
+​                              ![用户选择](./picture/图片1.png)
 
 - 选择系统环境变量 选择第一个选项
 
-![系统环境变量](D:\视频录制\手把手系列视频\开发环境搭建\图片\图片2.png)
+                              ![系统环境变量](./picture/图片2.png)
 
 ##### （三）配置
 
@@ -90,9 +90,9 @@ conda remove -n testEnv --all
 
 ![](./picture/图片3.png)
 
-![](.\picture\图片4.png)
+![](./picture/图片4.png)
 
-![](.\picture\图片5.png)
+![](./picture/图片5.png)
 
 #### 二、远程开发环境搭建
 
@@ -121,11 +121,11 @@ wget https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/Anaconda3-2020.11-Lin
 
 安装过程：
 
-![](.\picture\图片6.png)
+![](./picture/图片6.png)
 
-![](.\picture\图片7.png)
+![](./picture/图片7.png)
 
-![](.\picture\图片8.png)
+![](./picture/图片8.png)
 
 这样就安装成功了。
 
@@ -202,17 +202,17 @@ conda remove -n testEnv --all
 
 - 远程映射
 
-![](.\picture\图片9.png)
+![](./picture/图片9.png)
 
 - 目录映射
 
-![](.\picture\图片10.png)
+![](./picture/图片10.png)
 
 ###### 2. 设置python解释器
 
-![](.\picture\图片11.png)
+![](./picture/图片11.png)
 
-![](.\picture\图片12.png)
+![](./picture/图片12.png)
 
 注意勾选下面的自动上传到服务器。
 
@@ -220,9 +220,9 @@ conda remove -n testEnv --all
 
 无论是你本地的文件上传到服务器上进行运行，还是服务器上的文件同步到你本地都可行。
 
-![](.\picture\图片13.png)
+![](./picture/图片13.png)
 
-![](.\picture\图片14.png)
+![](./picture/图片14.png)
 
 
 
