@@ -88,7 +88,7 @@ conda remove -n testEnv --all
 
 打开pycharm:
 
-![](.\picture\图片3.png)
+![](./picture/图片3.png)
 
 ![](.\picture\图片4.png)
 
