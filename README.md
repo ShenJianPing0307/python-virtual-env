@@ -224,7 +224,7 @@ conda remove -n testEnv --all
 
 ![](./picture/图片14.png)
 
-#### 一、视频教程
+#### 三、视频教程
 https://www.youtube.com/watch?v=fP3bzfSaiNs&list=PLrct247B9ofy6nKImhzH571qoggm5Ywsa
 
 
