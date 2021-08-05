@@ -34,11 +34,11 @@
 
 - 选择 All User选项
 
-​                              ![用户选择](./picture/图片1.png)
+![用户选择](./picture/图片1.png)
 
 - 选择系统环境变量 选择第一个选项
 
-                              ![系统环境变量](./picture/图片2.png)
+![系统环境变量](./picture/图片2.png)
 
 ##### （三）配置
 
@@ -224,5 +224,7 @@ conda remove -n testEnv --all
 
 ![](./picture/图片14.png)
 
+#### 一、视频教程
+https://www.youtube.com/watch?v=fP3bzfSaiNs&list=PLrct247B9ofy6nKImhzH571qoggm5Ywsa
 
 
